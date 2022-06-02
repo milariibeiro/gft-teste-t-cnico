@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import class.Conta.java;
 
 public class ContaPoupança {
     public static void main(String[] args) {
